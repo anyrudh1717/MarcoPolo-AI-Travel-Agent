@@ -1,0 +1,1 @@
+AI Travel Planner is a full-stack web application that generates personalized, day-by-day travel itineraries using CrewAI and the Groq LLaMA3 model. Built with React, Flask, and Leaflet, it features an interactive map, date-based trip planning, and a clean, responsive interface for an engaging travel planning experience.
